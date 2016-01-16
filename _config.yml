@@ -1,7 +1,7 @@
 name: Testjps
 favicon: null
-layout_spectrum: 0.24692
-typography_spectrum: 0.9823233284987509
+layout_spectrum: 0.39923
+typography_spectrum: 0.55538
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000509'
-    - '#cae6f2'
-    - '#2e3434'
-    - '#b7aa97'
-    - '#75604b'
-  brandStrength: 1
-  lightness: 0.125
-  saturation: 0.6212314590811729
-  rhythmicContrast: 0.8873746027238667
+    - '#161611'
+    - '#cdd3f0'
+    - '#695859'
+    - '#a68175'
+    - '#cba34d'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
